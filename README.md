@@ -1,0 +1,1 @@
+# MC-Spectator-Trigger-Datapack
