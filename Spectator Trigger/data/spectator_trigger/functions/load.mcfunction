@@ -1,3 +1,5 @@
+say Spectator Trigger Loaded - "/trigger s"
+
 scoreboard objectives add s trigger
 scoreboard objectives add ST_toSpectator trigger
 scoreboard objectives add ST_toSurvival trigger
