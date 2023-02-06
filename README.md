@@ -1,4 +1,4 @@
-# MC-Spectator-Trigger-Datapack
+# Spectator Trigger Datapack for Minecraft
 
 **Currently working for 1.19.3 (pack format 10).**
 
