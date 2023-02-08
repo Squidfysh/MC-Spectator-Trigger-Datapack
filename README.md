@@ -1,4 +1,4 @@
-# Spectator Trigger Datapack for Minecraft v1.0
+# Spectator Trigger Datapack v1.0 for Minecraft
 
 **Currently working for 1.19.3 (pack format 10).**
 
